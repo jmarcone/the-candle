@@ -1,0 +1,6 @@
+/node_modules/
+/.idea/.gitignore
+/.idea/modules.xml
+/package-lock.json
+/.idea/the-candle.iml
+/.idea/vcs.xml
